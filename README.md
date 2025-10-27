@@ -45,4 +45,11 @@
 - خروجی PDF از نتایج
 - جلوگیری از رأی‌های جعلی
 
+## 🛠️ فناوری‌ها
+- Frontend: HTML, CSS, Bootstrap 5  
+- Backend: Laravel (PHP)  
+- Database: MySQL  
+- File Upload: Laravel Storage    
+- Version Control: Git + GitHub  
+
 ---
