@@ -13,7 +13,7 @@
 ## 🛠️ فناوری‌ها و ابزارها
 | بخش | ابزار/کتابخانه |
 |-----|----------------|
-| Backend | Node.js + Express |
+| Backend | Laravel +  |
 | Database | MySQL (XAMPP) |
 | Frontend | HTML + CSS |
 | Package Manager | npm |
@@ -123,5 +123,6 @@ php artisan serve
 قبل از اجرای پروژه، مطمئن شوید XAMPP و MySQL فعال هستند
 
 اگر ارور sessions table not found آمد، از php artisan session:table و php artisan migrate استفاده کنید
+
 
 
